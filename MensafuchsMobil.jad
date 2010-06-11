@@ -1,0 +1,9 @@
+MIDlet-1: MensafuchsMobil,res/mensafuchs-small.png,gui.MensafuchsMobil
+MIDlet-Info-URL: http://mensafuchs.de/
+MIDlet-Jar-URL: MensafuchsMobil.jar
+MIDlet-Name: MensafuchsMobil
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: Stefan Tomanek
+MIDlet-Version: 0.3.94
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
